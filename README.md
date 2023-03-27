@@ -8,7 +8,8 @@ CVPR2023中稿paper已经陆续放出来了，自动驾驶之心团队为大家�
 
 > **作者：汽车人 | 自动驾驶之心->：**[【技术交流群】]([微信公众平台 (qq.com)](https://mp.weixin.qq.com/s/bE3RXGx2X5tVpNLZGxg6VQ))
 
-**点击关注**[@自动驾驶之心](https://www.zhihu.com/people/7-1-78-3)**，第一时间看到最前沿与价值的CV/自动驾驶/AI类工作~**
+**点击关注** [@自动驾驶之心](https://www.zhihu.com/people/7-1-78-3)
+第一时间看到最前沿与价值的CV/自动驾驶/AI类工作!
 
 **强烈推荐！自动驾驶与AI学习社区：**[欢迎加入国内首个自动驾驶开发者社区！这里有最全面有效的自动驾驶与AI学习路线（感知/定位/融合）和自动驾驶与AI公司内推机会！](https://mp.weixin.qq.com/s?biz=Mzg2NzUxNTU1OA==&mid=2247522963&idx=5&sn=99ff28eb00ad73abeaf2760dc089b2bc&chksm=ceb8b75af9cf3e4cac1bfd0cddd48e1f79720bcc8c1b408ce989aca9f92a78c2af575b5b62df&token=260416221&lang=zh_CN#rd)
 
