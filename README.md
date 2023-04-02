@@ -27,9 +27,21 @@ CVPR2023中稿paper已经陆续放出来了，自动驾驶之心团队为大家�
 
 6.[X3KD: Knowledge Distillation Across Modalities, Tasks and Stages for Multi-Camera 3D Object Detection](https://arxiv.org/abs/2303.02203)
 
+7.[3D Video Object Detection with Learnable Object-Centric Global Optimization](https://arxiv.org/abs/2303.15416)
+
+8.[CAPE: Camera View Position Embedding for Multi-View 3D Object Detection](https://arxiv.org/abs/2303.10209)
+
+9.[Bi3D: Bi-domain Active Learning for Cross-domain 3D Object Detection](https://arxiv.org/abs/2303.05886)
+
+10.[AeDet: Azimuth-invariant Multi-view 3D Object Detection](https://arxiv.org/abs/2211.12501)
+
 ## **BEV感知**
 
 1.[Towards Domain Generalization for Multi-view 3D Object Detection in Bird-Eye-View](https://arxiv.org/abs/2303.01686)
+
+2.[Understanding the Robustness of 3D Object Detection with Bird's-Eye-View Representations in Autonomous Driving](https://arxiv.org/pdf/2303.17297.pdf)
+
+3.[TBP-Former: Learning Temporal Bird's-Eye-View Pyramid for Joint Perception and Prediction in Vision-Centric Autonomous Driving](https://arxiv.org/abs/2303.09998)
 
 ## **Occpuancy**
 
@@ -59,6 +71,16 @@ CVPR2023中稿paper已经陆续放出来了，自动驾驶之心团队为大家�
 
 11.[LaserMix for Semi-Supervised LiDAR Semantic Segmentation](https://arxiv.org/abs/2207.00026)
 
+12.[Beyond Appearance: a Semantic Controllable Self-Supervised Learning Framework for Human-Centric Visual Tasks](https://arxiv.org/abs/2303.17602)
+
+13.[EFEM: Equivariant Neural Field Expectation Maximization for 3D Object Segmentation Without Scene Supervision](https://arxiv.org/abs/2303.15440)
+
+14.[Generative Semantic Segmentation](https://arxiv.org/abs/2303.11316)
+
+15.[DynaMask: Dynamic Mask Selection for Instance Segmentation](https://arxiv.org/abs/2303.07868)
+
+16. [Conflict-Based Cross-View Consistency for Semi-Supervised Semantic Segmentation](https://arxiv.org/abs/2303.01276)
+
 ## **SLAM**
 
 1.[Renderable Neural Radiance Map for Visual Navigation](https://arxiv.org/abs/2303.00304)
@@ -70,6 +92,8 @@ CVPR2023中稿paper已经陆续放出来了，自动驾驶之心团队为大家�
 2.[Reversible Vision Transformers](https://arxiv.org/abs/2302.04869)
 
 3.[BiFormer: Vision Transformer with Bi-Level Routing Attention](https://arxiv.org/abs/2303.08810)
+
+4.[PVO: Panoptic Visual Odometry](https://arxiv.org/abs/2207.01610)
 
 ## **Few-Shot/Zero-Shot**
 
@@ -105,6 +129,10 @@ CVPR2023中稿paper已经陆续放出来了，自动驾驶之心团队为大家�
 
 8.[CLIP2Scene: Towards Label-Efficient 3D Scene Understanding by CLIP](https://arxiv.org/abs/2301.04926)
 
+9.[PartManip: Learning Cross-Category Generalizable Part Manipulation Policy from Point Cloud Observations](https://arxiv.org/abs/2303.16958)
+
+10.[Binarizing Sparse Convolutional Networks for Efficient Point Cloud Analysis](https://arxiv.org/abs/2303.15493)
+
 ## **轨迹预测**
 
 1.[IPCC-TP: Utilizing Incremental Pearson Correlation Coefficient for Joint Multi-Agent Trajectory Prediction](https://arxiv.org/abs/2303.00575)
@@ -128,3 +156,25 @@ CVPR2023中稿paper已经陆续放出来了，自动驾驶之心团队为大家�
 ## 目标跟踪
 
 1.[Referring Multi-Object Tracking](https://arxiv.org/abs/2303.03366)
+
+2.[Visual Prompt Multi-Modal Tracking](https://arxiv.org/abs/2303.10826)
+
+3.[MotionTrack: Learning Robust Short-term and Long-term Motions for Multi-Object Tracking](https://arxiv.org/abs/2303.10404)
+
+## 深度估计
+
+1.[Lite-Mono: A Lightweight CNN and Transformer Architecture for Self-Supervised Monocular Depth Estimation](https://arxiv.org/abs/2211.13202)
+
+## 车道线检测
+
+1.[BEV-LaneDet: a Simple and Effective 3D Lane Detection Baseline](https://arxiv.org/abs/2210.06006)
+
+## 其它
+
+1.[PMatch: Paired Masked Image Modeling for Dense Geometric Matching](https://arxiv.org/abs/2303.17342)
+
+2.[Detecting Everything in the Open World: Towards Universal Object Detection](https://arxiv.org/abs/2303.11749)
+
+3.[One-to-Few Label Assignment for End-to-End Dense Detection](https://arxiv.org/abs/2303.11567)
+
+4.[V2V4Real: A Real-world Large-scale Dataset for Vehicle-to-Vehicle Cooperative Perception](https://arxiv.org/abs/2303.07601)
