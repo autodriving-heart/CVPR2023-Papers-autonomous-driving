@@ -35,6 +35,16 @@ CVPR2023中稿paper已经陆续放出来了，自动驾驶之心团队为大家�
 
 10.[AeDet: Azimuth-invariant Multi-view 3D Object Detection](https://arxiv.org/abs/2211.12501)
 
+11.[Hierarchical Supervision and Shuffle Data Augmentation for 3D Semi-Supervised Object Detection](https://arxiv.org/abs/2304.01464)
+
+12.[LinK: Linear Kernel for LiDAR-based 3D Perception](https://arxiv.org/abs/2303.16094)
+
+13.[CAPE: Camera View Position Embedding for Multi-View 3D Object Detection](https://arxiv.org/abs/2303.10209)
+
+14.[PiMAE: Point Cloud and Image Interactive Masked Autoencoders for 3D Object Detection](https://arxiv.org/abs/2303.08129)
+
+15.[LoGoNet: Towards Accurate 3D Object Detection with Local-to-Global Cross-Modal Fusion](https://arxiv.org/abs/2303.03595)
+
 ## **BEV感知**
 
 1.[Towards Domain Generalization for Multi-view 3D Object Detection in Bird-Eye-View](https://arxiv.org/abs/2303.01686)
@@ -80,10 +90,16 @@ CVPR2023中稿paper已经陆续放出来了，自动驾驶之心团队为大家�
 15.[DynaMask: Dynamic Mask Selection for Instance Segmentation](https://arxiv.org/abs/2303.07868)
 
 16. [Conflict-Based Cross-View Consistency for Semi-Supervised Semantic Segmentation](https://arxiv.org/abs/2303.01276)
+16. [Exploiting the Complementarity of 2D and 3D Networks to Address Domain-Shift in 3D Semantic Segmentation](https://arxiv.org/abs/2304.02991)
+16. [DiGA: Distil to Generalize and then Adapt for Domain Adaptive Semantic Segmentation](https://arxiv.org/abs/2304.02222)
+16. [3D Semantic Segmentation in the Wild: Learning Generalized Models for Adverse-Condition Point Clouds](https://arxiv.org/abs/2304.00690)
+16. [Generative Semantic Segmentation](https://arxiv.org/abs/2303.11316)
 
 ## **SLAM**
 
 1.[Renderable Neural Radiance Map for Visual Navigation](https://arxiv.org/abs/2303.00304)
+
+2.[PVO: Panoptic Visual Odometry](https://arxiv.org/abs/2207.01610)
 
 ## **Transformer**
 
@@ -111,6 +127,10 @@ CVPR2023中稿paper已经陆续放出来了，自动驾驶之心团队为大家�
 
 1.[Learning to Retain while Acquiring: Combating Distribution-Shift in Adversarial Data-Free Knowledge Distillation](https://arxiv.org/abs/2302.14290)
 
+2.[KD-DLGAN: Data Limited Image Generation via Knowledge Distillation](https://arxiv.org/abs/2303.17158)
+
+
+
 ## **点云相关**
 
 1.[ACL-SPC: Adaptive Closed-Loop system for Self-Supervised Point Cloud Completion](https://arxiv.org/abs/2303.01979)
@@ -133,6 +153,12 @@ CVPR2023中稿paper已经陆续放出来了，自动驾驶之心团队为大家�
 
 10.[Binarizing Sparse Convolutional Networks for Efficient Point Cloud Analysis](https://arxiv.org/abs/2303.15493)
 
+11.[NerVE: Neural Volumetric Edges for Parametric Curve Extraction from Point Cloud](https://arxiv.org/abs/2303.16465)
+
+12.[LidarGait: Benchmarking 3D Gait Recognition with Point Clouds](https://arxiv.org/abs/2211.10598)
+
+13.
+
 ## **轨迹预测**
 
 1.[IPCC-TP: Utilizing Incremental Pearson Correlation Coefficient for Joint Multi-Agent Trajectory Prediction](https://arxiv.org/abs/2303.00575)
@@ -153,6 +179,12 @@ CVPR2023中稿paper已经陆续放出来了，自动驾驶之心团队为大家�
 
 3.[Object-Aware Distillation Pyramid for Open-Vocabulary Object Detection](https://arxiv.org/abs/2303.05892)
 
+4.[Dense Distinct Query for End-to-End Object Detection](https://arxiv.org/abs/2303.12776)
+
+5.[Detecting Everything in the Open World: Towards Universal Object Detection](https://arxiv.org/abs/2303.11749)
+
+6.[One-to-Few Label Assignment for End-to-End Dense Detection](https://arxiv.org/abs/2303.11567)
+
 ## 目标跟踪
 
 1.[Referring Multi-Object Tracking](https://arxiv.org/abs/2303.03366)
@@ -161,9 +193,15 @@ CVPR2023中稿paper已经陆续放出来了，自动驾驶之心团队为大家�
 
 3.[MotionTrack: Learning Robust Short-term and Long-term Motions for Multi-Object Tracking](https://arxiv.org/abs/2303.10404)
 
+4.[On the Benefits of 3D Pose and Tracking for Human Action Recognition](https://arxiv.org/abs/2304.01199)
+
+5.[Visual Prompt Multi-Modal Tracking](https://arxiv.org/abs/2303.10826)
+
 ## 深度估计
 
 1.[Lite-Mono: A Lightweight CNN and Transformer Architecture for Self-Supervised Monocular Depth Estimation](https://arxiv.org/abs/2211.13202)
+
+2.[HRDFuse: Monocular 360°Depth Estimation by Collaboratively Learning Holistic-with-Regional Depth Distributions](https://arxiv.org/abs/2303.11616)
 
 ## 车道线检测
 
