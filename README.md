@@ -157,7 +157,6 @@ CVPR2023中稿paper已经陆续放出来了，自动驾驶之心团队为大家�
 
 12.[LidarGait: Benchmarking 3D Gait Recognition with Point Clouds](https://arxiv.org/abs/2211.10598)
 
-13.
 
 ## **轨迹预测**
 
