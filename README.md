@@ -89,11 +89,15 @@ CVPR2023中稿paper已经陆续放出来了，自动驾驶之心团队为大家�
 
 15.[DynaMask: Dynamic Mask Selection for Instance Segmentation](https://arxiv.org/abs/2303.07868)
 
-16. [Conflict-Based Cross-View Consistency for Semi-Supervised Semantic Segmentation](https://arxiv.org/abs/2303.01276)
-16. [Exploiting the Complementarity of 2D and 3D Networks to Address Domain-Shift in 3D Semantic Segmentation](https://arxiv.org/abs/2304.02991)
-16. [DiGA: Distil to Generalize and then Adapt for Domain Adaptive Semantic Segmentation](https://arxiv.org/abs/2304.02222)
-16. [3D Semantic Segmentation in the Wild: Learning Generalized Models for Adverse-Condition Point Clouds](https://arxiv.org/abs/2304.00690)
-16. [Generative Semantic Segmentation](https://arxiv.org/abs/2303.11316)
+16.[Conflict-Based Cross-View Consistency for Semi-Supervised Semantic Segmentation](https://arxiv.org/abs/2303.01276)
+
+17.[Exploiting the Complementarity of 2D and 3D Networks to Address Domain-Shift in 3D Semantic Segmentation](https://arxiv.org/abs/2304.02991)
+
+18.[DiGA: Distil to Generalize and then Adapt for Domain Adaptive Semantic Segmentation](https://arxiv.org/abs/2304.02222)
+
+19.[3D Semantic Segmentation in the Wild: Learning Generalized Models for Adverse-Condition Point Clouds](https://arxiv.org/abs/2304.00690)
+
+20.[Generative Semantic Segmentation](https://arxiv.org/abs/2303.11316)
 
 ## **SLAM**
 
