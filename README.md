@@ -198,7 +198,6 @@ CVPR2023中稿paper已经陆续放出来了，自动驾驶之心团队为大家�
 
 4.[On the Benefits of 3D Pose and Tracking for Human Action Recognition](https://arxiv.org/abs/2304.01199)
 
-5.[Visual Prompt Multi-Modal Tracking](https://arxiv.org/abs/2303.10826)
 
 ## 深度估计
 
